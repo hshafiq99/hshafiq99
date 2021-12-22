@@ -87,7 +87,7 @@
 <!-- [course]: http://vsCodeHero.com -->
 [twitter]: https://twitter.com/hshafiq_99
 <!-- [youtube]: https://youtube.com/codeSTACKr -->
-[instagram]: https://instagram.com/codeSTACKr
+[instagram]: https://instagram.com/the.it.guy_
 [linkedin]: https://www.linkedin.com/in/hshafiq99/
 <!-- [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
